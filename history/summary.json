@@ -22,17 +22,17 @@
     "url": "$SQL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "sql-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 349,
-    "timeDay": 188,
-    "timeWeek": 240,
-    "timeMonth": 243,
-    "timeYear": 349,
+    "time": 350,
+    "timeDay": 380,
+    "timeWeek": 281,
+    "timeMonth": 253,
+    "timeYear": 350,
     "dailyMinutesDown": {}
   }
 ]
