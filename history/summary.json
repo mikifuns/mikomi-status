@@ -4,7 +4,7 @@
     "url": "https://www.mikifuns.com",
     "icon": "https://favicons.githubusercontent.com/www.mikifuns.com",
     "slug": "web-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -13,7 +13,7 @@
     "time": 2398,
     "timeDay": 455,
     "timeWeek": 532,
-    "timeMonth": 753,
+    "timeMonth": 761,
     "timeYear": 2398,
     "dailyMinutesDown": {}
   },
