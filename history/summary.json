@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 999,
+    "time": 718,
     "timeDay": 0,
     "timeWeek": 450,
     "timeMonth": 433,
-    "timeYear": 777,
+    "timeYear": 773,
     "dailyMinutesDown": {}
   },
   {
@@ -22,7 +22,7 @@
     "url": "$SQL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "sql-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
